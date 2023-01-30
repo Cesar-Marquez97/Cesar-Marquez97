@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cesar Marquez
-- 👀 I’m interested in Front-End and software developemnt. 
+- 👀 I’m interested in Front-End and UX/UI Design. 
 - 🌱 I’m currently mastering HTML, CSS & JavaScript.
 - 💞️ I’m looking to collaborate on projects. 
 - 📫 Reach me on my email: marqcesar97@gmail.com
